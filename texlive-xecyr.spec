@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-xecyr
 Version:	1.1
-Release:	10
+Release:	11
 Summary:	Using Cyrillic languages in XeTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/xetex/latex/xecyr
