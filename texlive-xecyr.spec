@@ -1,6 +1,6 @@
 Name:		texlive-xecyr
 Version:	54308
-Release:	1
+Release:	2
 Summary:	Using Cyrillic languages in XeTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/xetex/latex/xecyr
