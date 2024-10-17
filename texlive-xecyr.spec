@@ -3,7 +3,7 @@ Version:	54308
 Release:	2
 Summary:	Using Cyrillic languages in XeTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/xetex/latex/xecyr
+URL:		https://www.ctan.org/tex-archive/macros/xetex/latex/xecyr
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xecyr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xecyr.doc.r%{version}.tar.xz
